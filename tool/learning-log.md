@@ -29,10 +29,27 @@
 
 
 
-### X/X/XX:
-* Text
+### 11/24/24:
 
-
+* Lesson 6: Learned how to use functions with parameters -- how to create them
+  * Finished coding activity 1 through 4, which includes: Drawing corners of different sizes, Using multiple parameters, drawing squares of any size, and drawing rectangles of any size.
+     * Learned how to use parameters to draw squares and rectangles that can be used in game as an "outline for items in inventory", map, etc
+* Lesson 7: Learned how to use variables, and the types of variables in goDot such as sub and member varables
+  * Member varables are variables that are attached to the game's entity (character), and within each member varable there are sub-varables such as x and y that can be accessed using the dot.
+  * Finished coding practice 1 and 2; Draw a rectangle at a precise position and Draw squares at different position
+* Lesson 8: Learned how to create my own variables, and what print() does
+  * To create an variable you write `var (name)` and assign it to an value using the = sign.
+  * `print()` prints out something to your box
+  * Variable is like an label and putting it on a item
+  * IF YOU USE `var` TO DECLARE YOUR VARIABLE YOU CAN CHANGE THE VALUE FROM AN NUMBER TO ANOTHER DATATYPE LIKE STRINGS
+  * Finished coding activity 1, define a health variable
+* Lesson 9: Learned how to add and subtract an value
+  * `-=`, `+=`, etc, does the operation and then set the vararible equal to that new value; shorten version of `health = health - amount`
+  * Finished activities 1 and 2, damaging the robot and healing the robot
+* Lesson 10: learned goDots loop function called `_process(delta)`
+  * _process(delta) is an function that does continous actions and calculations
+  * "if the function exists in your code, and it is called _process then goDot will automatically run it every frame"
+  * Finished activities 1 and 2, Rotating a character continuously and creating circular movement
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
