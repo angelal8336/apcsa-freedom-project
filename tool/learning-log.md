@@ -47,7 +47,7 @@
   * `-=`, `+=`, etc, does the operation and then set the vararible equal to that new value; shorten version of `health = health - amount`
   * Finished activities 1 and 2, damaging the robot and healing the robot
 * Lesson 10: learned goDots loop function called `_process(delta)`
-  * _process(delta) is an function that does continous actions and calculations
+  * `_process(delta)` is an function that does continous actions and calculations
   * "if the function exists in your code, and it is called _process then goDot will automatically run it every frame"
   * Finished activities 1 and 2, Rotating a character continuously and creating circular movement
 <!-- 
