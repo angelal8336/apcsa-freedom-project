@@ -53,14 +53,14 @@
 
 12/9/24:
  * Lesson 11: We learned to to use time Delta in the _process method
-  * Almost every object has a _process method that can be used to load frames.
-  * Completed Rotating Using Delta and Moving in a circle Using delta activity
+   * Almost every object has a _process method that can be used to load frames.
+   * Completed Rotating Using Delta and Moving in a circle Using delta activity
  * Lesson 12: Learned how to use variables to make code easier to read
-  * Completed Clafiying code using variables and fixing an out of scope error acivity
+   * Completed Clafiying code using variables and fixing an out of scope error acivity
  * Lesson 13: Learned how to use conditions in Godot
-  * Very similar to that of java or other coding lanuages, the only difference is that there are no ()
-  * Completed using comparisons, limiting healing and preventing health from going below zero activity's
-  * The conditional is the very much the same; <=, !=, >=, <, >, etc
+   * Very similar to that of java or other coding lanuages, the only difference is that there are no ()
+   * Completed using comparisons, limiting healing and preventing health from going below zero activity's
+   * The conditional is the very much the same; <=, !=, >=, <, >, etc
 
 
 
