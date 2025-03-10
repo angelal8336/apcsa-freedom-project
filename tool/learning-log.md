@@ -62,6 +62,19 @@
    * Completed using comparisons, limiting healing and preventing health from going below zero activity's
    * The conditional is the very much the same; <=, !=, >=, <, >, etc
 
+3/9/24
+* Watched this 1:17 hr long video explaining goDot engine
+ * https://www.youtube.com/watch?v=LOhfqjmasi0 
+* Learned how to use goDot engine such as the filesystem, nodes, and scenes to create characters and world
+ * I created my own character that is able to move using spriti sheets and gdscript
+  * The character was created using CharacterBody2D, AnimatedSprite2D, CollisionShape2D as well as gdScript to make it move. 
+  * The Inspectors was used to modify the nodes (CollisionShape2D)
+* I created my a map for my game using TileMap and tileset sheet
+ * Basically I "drew" in the map and layed out all the tile blocks I wanted
+ * I set the physics prorties to certain tiles so that I don't fall right through them
+ * By putting Camera2D under the player, the camera follows the player
+
+
 
 
 <!-- 
