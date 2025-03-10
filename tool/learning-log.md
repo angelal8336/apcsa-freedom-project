@@ -51,7 +51,7 @@
   * "if the function exists in your code, and it is called _process then goDot will automatically run it every frame"
   * Finished activities 1 and 2, Rotating a character continuously and creating circular movement
 
-12/9/24:
+### 12/9/24:
  * Lesson 11: We learned to to use time Delta in the _process method
    * Almost every object has a _process method that can be used to load frames.
    * Completed Rotating Using Delta and Moving in a circle Using delta activity
@@ -62,7 +62,7 @@
    * Completed using comparisons, limiting healing and preventing health from going below zero activity's
    * The conditional is the very much the same; <=, !=, >=, <, >, etc
 
-3/9/24
+### 3/9/24
 
 * Watched this 1:17 hr long video explaining goDot engine
   * https://www.youtube.com/watch?v=LOhfqjmasi0 
