@@ -11,6 +11,14 @@ After figuring out the engine and learning more about it, I started to learn and
 
 
 
+### Engineering Design Process
+We are currently on step 4 and 5 of the engineering design process which is to plan and create our protype, In the future we hope to finish creating our game and to test it out for any bugs. However as of now, we are still in the beginning of making our game, and hopefully will continue to make progess. 
+
+
+### Next Steps
+
+
+
 
 
 
