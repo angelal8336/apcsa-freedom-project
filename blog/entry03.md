@@ -15,16 +15,16 @@ After figuring out the engine and learning more about it, I started to learn and
 (![alt text](../GoDotMap2.png))
 
 
+Unlike other coding apps, goDot lets you create a world map and blocks by dragging it onto the screen. 
+When I finished that, I decided to create a character scene that the player could use to play. To do so, I added the character2D, sprite2D and collison2D nodes into the scene. Then I imported my sprite asset which was the default one provided by goDot and adjusted it using the inspector. When I press the play button to run my game, my sprite fell right through my map tiles which I had no idea why until I realized tha the blocks also needs to be solid. In order to make it grounded, I had to add a physics layer onto the tilesets so that the computer knows which tile is solid. To do this, all I needed to do was use the inspector to select the tiles that I wanted to add this node to. Afterwards, I ran the game again and my problem was fixed. However, I couldnt move the sprite since it was floating. In fact, I had no idea how to make it move so I did some research on what to do. This was when I rewatched the video and found that goDot actually had a library for prewritten code, so I added a movement gdSCript from the library and imported into a file in the engine. This allowed my sprite to jump and move left/right but it was too fast so I changed the code a bit by changing the velocity of it. 
 
-Unlike other coding apps, goDot lets you create a world map and blocks by dragging it onto the screen. When I finished that, I added physics nodes and colliison nodes into the spirit and adjusted it using the inspector. When I press the play button to run my game, my spriit fell right through my map tiles, so I decided to also add the phsics node to the tiles itself to give it a solid ground. To do this, all I needed to do was use the inspector to select the tiles that I wanted to add this node to. Afterwards, I once again ran the game and my problem was fixed. However, I couldnt move the spriti whatsoever, and I had no idea how to make it move either so I did some research on what to do. I rewatched the video and found that goDot actually had a library for prewritten code, so I added a movement gdSCript from the libary and imported into a file in the engine. This allowed my spirit to jump and move left/right but it was too fast so I changed the code a bit by changing the vecoity of it. When I ran it once more, my prootype of my tinkering was done; the basic movement and the basic map. 
+(![alt text](../GoDotScript.png))
 
+When I ran it once more, my prototype of my tinkering was done; the basic movement and the basic map
 
+(![alt text](../GoDotMap.png))
 
-
-
-
-With this mini project finished, I was able to grasp a better understanding of how to use this in my own game that we will start to code in a week. Our next step will be to create our sprite  and map while also learning the codes from GDscript. 
-
+With this mini project finished, I was able to grasp a better understanding of how to use this in my own game that we will start to code in a week. Our next step will be to create OUR GAME's sprite and map while also learning the codes from GDscript. 
 
 
 ### Engineering Design Process
