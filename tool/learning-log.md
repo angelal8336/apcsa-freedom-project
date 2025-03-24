@@ -75,7 +75,25 @@
   * I set the physics prorties to certain tiles so that I don't fall right through them
   * By putting Camera2D under the player, the camera follows the player
 
-
+### 3/23/24
+* Continued watching the 1:17 hr long video
+  * https://www.youtube.com/watch?v=LOhfqjmasi0
+* Learned how to create items that are able to be picked up like a coin
+  * Uses Area2D node that doesn't allow collision but has an area to detect if another object enters.
+  * Learned how to code GDscript for collisions using signals (there is a whole list of signal for area2d) and` quene_free()` (removes objects)
+    * Put your character in another physics layers
+* Learned how to make a character "lose" by using Camera2D and killzone
+   * Learned to code a GDscript using signals again, timer, `getTree()`, and` Reload()`
+* Learned how to use path to access different levels of a hierachy/tree
+   *  For example to access the camera node inside the player inside the game, we would write $player/camera
+*  Learned to caterioze nodes
+* ** ADDED more elements to my project such as coins, score, and losing **
+   * Basically I created my own coin sprite using sprite sheets, and added the conponments (signal and nodes) so that when my player touches it, it disappers and score++.
+   * Added a system that restarts the game whenever the player falls
+ 
+ 
+   
+  
 
 
 <!-- 
