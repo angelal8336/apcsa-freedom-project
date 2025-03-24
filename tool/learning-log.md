@@ -87,9 +87,9 @@
 * Learned how to use path to access different levels of a hierachy/tree
    *  For example to access the camera node inside the player inside the game, we would write $player/camera
 *  Learned to caterioze nodes
-* ** ADDED more elements to my project such as coins, score, and losing **
-   * Basically I created my own coin sprite using sprite sheets, and added the conponments (signal and nodes) so that when my player touches it, it disappers and score++.
-   * Added a system that restarts the game whenever the player falls
+* **ADDED more elements to my project such as coins, score, and losing**
+   * **Basically I created my own coin sprite using sprite sheets, and added the conponments (signal and nodes) so that when my player touches it, it disappers and score++.**
+   * **Added a system that restarts the game whenever the player falls**
  
  
    
