@@ -93,16 +93,16 @@
 
  ### 4/6/24
  * Watched a 3D game tutorial in goDot
-  * https://www.youtube.com/watch?v=ke5KpqcoiIU
+   * https://www.youtube.com/watch?v=ke5KpqcoiIU
  * 3D combines asset data's like Mesh, Texture, Rig and Animation to Rendering such as Shader, Light, VFX and Screen FX.
  * Learned how to use MeshInstance3D to create shapes (objects) but also how to scale, move and rotate the shape  
  *  You can use the techique of greyblocking to draft your level (a protype layout)
-  *  You can use Constructive Solid Geometry nodes to create levels and then bring it into 3D modeling programs
-  *  Learned how to create different types of shapes using subtracting, adding, etc
+   * You can use Constructive Solid Geometry nodes to create levels and then bring it into 3D modeling programs
+   * Learned how to create different types of shapes using subtracting, adding, etc
  * **Created my own greyblocking layout of a level/map using CSG nodes**
- * Learned how to use a terrian tool to paint a certain terrian using terrain#D (another program that isnt built into godot)
+   * Learned how to use a terrian tool to paint a certain terrian using terrain#D (another program that isnt built into godot)
  * **Based on my grayblock, I created a 3D simple game (a player walking around) using game controllers (characters) that can sprint, fly and walk**
-  * Edited game controllers's speed, gdscipt, componments like jumping and the input action through input map.
+   * Edited game controllers's speed, gdscipt, componments like jumping and the input action through input map.
    
   
 
