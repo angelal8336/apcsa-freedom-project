@@ -2,7 +2,7 @@
 ##### 4/1/24
 
 ### Context
-
+For the past month after learning our tool for an entire year, we have been working towards our MVP and have actually finished it. The game we created was a melee battle game where your goal is to kill the enemys that spawns in the world. This game was made using goDot and it is different then what we initally had in mind. During the time before the due dates of the MVP, we worked hard to put together everything we laerned into a final useable project. In this blog, I discuss my process and what I did for my MVP.
 
 
 ### Progress
