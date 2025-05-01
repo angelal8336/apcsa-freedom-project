@@ -2,7 +2,7 @@
 ##### 4/1/24
 
 ### Context
-For the past month after learning our tool for an entire year, we have been working towards our MVP and have actually finished it. The game we created was a melee battle game where your goal is to kill the enemys that spawns in the world. This game was made using goDot and it is different then what we initially had in mind. During the time before the due dates of the MVP, we worked hard to put together everything we laerned into a final useable project. In this blog, I discuss my process and what I did for my MVP.
+For the past month after learning our tool for an entire year, we have been working towards our MVP and have actually finished it. The game we created was a melee battle game where your goal is to kill the enemys that spawns in the world. This game was made using [GoDot](https://godotengine.org/) and it is different then what we initially had in mind. During the time before the due dates of the MVP, we worked hard to put together everything we laerned into a final useable project. In this blog, I discuss my process and what I did for my MVP.
 
 
 ### Progress
@@ -17,17 +17,18 @@ Since, the asset packs has hundreds of models, I had to preview and go through e
 
 (![alt text](../APCSA2.png))
 
-This is what our godot project look like when you preview it in the engine. It is an 2D version of how our game looks. After completing our project, we we still needed to find a way for us to share the preview to google classroom so we had to learn to export the godot game into a zip file. By doing so, we can import it into itch.io so that we can preview the game through it and share it to classroom.
+This is what our godot project look like when you preview it in the engine. It is an 2D version of how our game looks. After completing our project, we we still needed to find a way for us to share the preview to google classroom so we had to learn to export the godot game into a zip file. By doing so, we can import it into [itch.io](https://itch.io/) so that we can preview the game through it and share it to classroom.
 
 
 ### Engineering Design Process
-We are currently on steps 6 & 7 of the engineering design process which is to test and evualte the protypo and improve as needed. Soon we will share our project with the class to get any feedbacks in order to commincate and further improve our project before the EXPO. Our goal for next few weeks are to improve and add addition stuff to our MVP. 
+We are currently on steps 6 & 7 of the [Engineering Design Process](https://hstatsep.github.io/students/) which is to test and evualte the protypo and improve as needed. Soon we will share our project with the class to get any feedbacks in order to commincate and further improve our project before the EXPO. Our goal for next few weeks are to improve and add addition stuff to our MVP. 
 
 ### Skills
 The skills I used for this blog is mainly Collaboration ane Communication. Collaboration is the idea of asking for help and working together with a someone, while communication is the idea of staying in contact with your partner to plan and communicate each of your ideas. For this blog, these two skills were used the most because I had to stay up late with Shelly to finish this project. We also had to ask our classmates like YU for help since we are using the same tool. For example, my partner and I had to collabrate on this project, spliting each task up so that we can each complete our own part. This allowed us to work together to finish this project as we each were responsible for contributing to the MVP. Not to mention, we stayed up together in a discord call to communicate all our ideas, our work and what we have done. As for communication, my partner and I talked and texted each other, communicating our needs and ideas whenever we could. We stayed in touch the whole time, asking each other for help if we have needed it. We also asked for the help of our classmates for certain parts like how to make our enemy moves or how to export our project. Overall during this whole year, we have Collaborated and Communcated with each other in order to complete our MVP. 
 
 ### Next Steps
 Our next steps are to improve our game and go beyond MVP using our classmates feedbacks to add new features, improve current ones and working towards making our project better for the EXPO. After finishing beyond MVP, we will start preparing for the SEP EXPO, where we share what we have made with everyone. 
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
