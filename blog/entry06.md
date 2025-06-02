@@ -10,8 +10,6 @@ After finishing my minimum viable product of goDot game, we had a few days to en
 * Create a scoreboard; with every monster defeated score increases by 1
 * Add a deathscreen; When you die a new screen pops up
 
-For the scoreboard, we created 
-
 ### Takeaway from EXPO
 After giving our Elevator pitch in the EXPO to our the classmates and judges we realized some takeaways:
 
@@ -34,8 +32,4 @@ We created a google slide that goes over our process, challenges, and takeaways 
 We are currently on step 8 of the [Engineering Design Process](https://hstatsep.github.io/students/) which is to communicate our results. After presentating in the class and in the EXPO, we will receieve feedback which will bring us back to step 7 which is to improve as needed. During this month, we were able to communicate and share our product that we worked hard for to our class, classmates and also judges while recieveing feedbacks to improve on our creation. After this year, the Engineering Design Process will restart and go back to step 1, defining the process. Although I wont be in SoftWare engineering anymore, I will still be using this framework because I will create future projects. However as of now, my goal is to explain how i created my product to my peers and to showcase all the work I have done to make myself proud.
 
 ### Skills
-
-
-[Previous](entry05.md) | [Next](entry07.md)
-
-[Home](../README.md)
+The skills I used and improved in this blog are Communication and Time management. Communication is the ability to advocate your ideas to your peers, to the class and basically anyone. Time management is the ability to manage your time properly so that you meet deadlines and not get too stressed out. In this blog we used both the skills but mainly communication. We had to communicate for almost everything from finishing our slides to giving feedback to each other. We had to call certain nights to work on the project together and to review our slides before presentation. Not to mention, we had to actually present to the class and to give a pitch during the expo so that we can explain our project to our peers. All of this communicating, allowed us to improve on it because we had to actively share our ideas and opinions. During all of this time management also played a huge role. We had to make sure slides were completed on time and elevator pitch was finished before the expo. We had to manage our time proporly so we can balance it out with our other works. In other words, we were forced to plan out how to efficently use our time so that we are able to finish everything. The journey to the expo allowed us to build on our skills of communication and time management.
